@@ -9,6 +9,8 @@ This is a resume builder app
   * Download size : 25 MB
   * Released on Aug 11, 2022 
   * Downloads : 100+ downloads
+ 
+<a href="https://play.google.com/store/apps/details?id=com.tuhin.boltresume&hl=en_US&gl=US" target="_blank"><img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0" alt=""/></a>
   
   <p>Bolt Resume app will help you to create professional resume & Curriculum vitae for job application in few minutes.
 
@@ -48,12 +50,6 @@ Apart from resume & CV, Resume builder app helps to create biodata and portfolio
 Stress free resume making process and Resume writing service with smart and quick CV maker app. For job application form generate high quality CV in PDF which gives better support than docx format so you can generate resume in PDF format.
 
 If you have any queries with this resume builder app, contact us.</p>
-  
-# Download App
-
-### Audago Music Version 1.4.0
-
-<a href="https://play.google.com/store/apps/details?id=com.tuhin.boltresume&hl=en_US&gl=US" target="_blank"><img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0" alt=""/></a>
 
 <h3>Screenshots</h3>
 <div class="row">
