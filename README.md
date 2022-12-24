@@ -53,14 +53,11 @@ If you have any queries with this resume builder app, contact us.</p>
 
 ### Audago Music Version 1.4.0
 
-<a href="https://play.google.com/store/apps/details?id=com.tuhin.boltresume&hl=en_US&gl=US" target="_blank"><img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0" alt="" width="240" height="180" border="10" /></a>
-
-<a href="https://github.com/tuhinsubhrahazra/Audago-Music-/releases" target="_blank"><img src="https://raw.githubusercontent.com/tuhinsubhrahazra/Audago-Music-/main/get-it-on-github.png" 
-alt="" width="240" height="180" border="10" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.tuhin.boltresume&hl=en_US&gl=US" target="_blank"><img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0" alt=""/></a>
 
 <h3>Screenshots</h3>
 <div class="row">
-      <img src="https://play-lh.googleusercontent.com/H2N_IDWaTdkhpHC4vCB4us6aszGJMmF3w4SJ0yn4SA1nAOBy-jnnWFIW8hvX9tqnuvo=w526-h296" width="250">
+      <img src="https://play-lh.googleusercontent.com/H2N_IDWaTdkhpHC4vCB4us6aszGJMmF3w4SJ0yn4SA1nAOBy-jnnWFIW8hvX9tqnuvo=w526-h296">
 </div>
 <div class="row">
       <img src="https://play-lh.googleusercontent.com/oSDWc5VPX3LAwSuJpkGjE42EsDk4LWJ5dMB5Y4CmAjwraXo7dXMnhj-CG_FxvotPMCU=w526-h296" width="250">         
